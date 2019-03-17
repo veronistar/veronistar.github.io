@@ -20,6 +20,14 @@
     
     <url>
     
+      <loc>https://veronicastarovoit.com/publication/ibm-user-guide/</loc>
+      <lastmod>2010-12-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://veronicastarovoit.com/publication/space-robots/</loc>
       <lastmod>2010-09-01T00:00:00-07:00</lastmod>
     </url>
@@ -44,7 +52,7 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/apis/</loc>
+      <loc>https://veronicastarovoit.com/categories/apis/</loc>
       <lastmod>2014-09-24T22:30:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -53,7 +61,7 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/categories/apis/</loc>
+      <loc>https://veronicastarovoit.com/tags/apis/</loc>
       <lastmod>2014-09-24T22:30:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -71,7 +79,7 @@
     <url>
     
       <loc>https://veronicastarovoit.com/publication/</loc>
-      <lastmod>2010-09-01T00:00:00-07:00</lastmod>
+      <lastmod>2010-12-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -118,7 +126,7 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/sdks/</loc>
+      <loc>https://veronicastarovoit.com/categories/sdks/</loc>
       <lastmod>2014-09-24T22:30:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -127,7 +135,7 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/categories/sdks/</loc>
+      <loc>https://veronicastarovoit.com/tags/sdks/</loc>
       <lastmod>2014-09-24T22:30:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -162,15 +170,6 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/journalism/</loc>
-      <lastmod>2011-11-24T22:56:51-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://veronicastarovoit.com/categories/journalism/</loc>
       <lastmod>2011-11-24T22:56:51-08:00</lastmod>
       <priority>0</priority>
@@ -180,7 +179,7 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/tech-writing/</loc>
+      <loc>https://veronicastarovoit.com/tags/journalism/</loc>
       <lastmod>2011-11-24T22:56:51-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,6 +189,15 @@
     <url>
     
       <loc>https://veronicastarovoit.com/categories/tech-writing/</loc>
+      <lastmod>2011-11-24T22:56:51-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronicastarovoit.com/tags/tech-writing/</loc>
       <lastmod>2011-11-24T22:56:51-08:00</lastmod>
       <priority>0</priority>
     </url>
