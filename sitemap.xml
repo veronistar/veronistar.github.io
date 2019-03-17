@@ -4,40 +4,48 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/post/api-workshop/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/post/api-workshop/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://veronicastarovoit.com/post/tech-writing-vs-journalism/</loc>
-      <lastmod>2011-11-24T22:56:51-08:00</lastmod>
+      <loc>https://veronistar.github.io/post/tech-writing-vs-journalism/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://veronicastarovoit.com/publication/ibm-user-guide/</loc>
-      <lastmod>2010-12-01T00:00:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/publication/ibm-user-guide/</loc>
+      <lastmod>2019-03-17T12:14:02-07:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://veronicastarovoit.com/publication/space-robots/</loc>
-      <lastmod>2010-09-01T00:00:00-07:00</lastmod>
+      <loc>https://veronistar.github.io/publication/space-robots/</loc>
+      <lastmod>2019-03-17T12:14:02-07:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://veronicastarovoit.com/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/author/admin/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/categories/apis/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -45,15 +53,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/author/admin/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronicastarovoit.com/categories/apis/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/tags/apis/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,8 +62,23 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/apis/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/post/</loc>
+      <lastmod>2019-03-17T11:46:45-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/publication/</loc>
+      <lastmod>2019-03-17T11:46:45-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -70,23 +86,7 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/post/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronicastarovoit.com/publication/</loc>
-      <lastmod>2010-12-01T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronicastarovoit.com/author/</loc>
+      <loc>https://veronistar.github.io/authors/</loc>
       <priority>0</priority>
     </url>
     
@@ -94,7 +94,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/authors/</loc>
+      <loc>https://veronistar.github.io/categories/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -102,8 +103,7 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/categories/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -111,7 +111,16 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/publication_types/</loc>
+      <loc>https://veronistar.github.io/talk/</loc>
+      <lastmod>2019-02-24T15:42:18-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/categories/sdks/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -119,15 +128,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/talk/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronicastarovoit.com/categories/sdks/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/tags/sdks/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,8 +137,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/sdks/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/tags/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -144,8 +146,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -153,8 +155,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/authors/veronica-starovoit/</loc>
-      <lastmod>2014-09-24T22:30:00-08:00</lastmod>
+      <loc>https://veronistar.github.io/authors/veronica-starovoit/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,7 +164,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/authors/admin/</loc>
+      <loc>https://veronistar.github.io/authors/admin/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,8 +173,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/categories/journalism/</loc>
-      <lastmod>2011-11-24T22:56:51-08:00</lastmod>
+      <loc>https://veronistar.github.io/categories/journalism/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,8 +182,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/journalism/</loc>
-      <lastmod>2011-11-24T22:56:51-08:00</lastmod>
+      <loc>https://veronistar.github.io/tags/journalism/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,8 +191,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/categories/tech-writing/</loc>
-      <lastmod>2011-11-24T22:56:51-08:00</lastmod>
+      <loc>https://veronistar.github.io/categories/tech-writing/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -197,8 +200,8 @@
     
     <url>
     
-      <loc>https://veronicastarovoit.com/tags/tech-writing/</loc>
-      <lastmod>2011-11-24T22:56:51-08:00</lastmod>
+      <loc>https://veronistar.github.io/tags/tech-writing/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
     

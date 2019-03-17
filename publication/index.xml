@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on </title>
-    <link>https://veronicastarovoit.com/publication/</link>
-    <description>Recent content in Articles on </description>
+    <title>Articles on Veronica Starovoit</title>
+    <link>https://veronistar.github.io/publication/</link>
+    <description>Recent content in Articles on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2010 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 11:46:45 -0700</lastBuildDate>
     
-	<atom:link href="https://veronicastarovoit.com/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://veronistar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IBM Global Process Monitor Models User Guide</title>
-      <link>https://veronicastarovoit.com/publication/ibm-user-guide/</link>
+      <link>https://veronistar.github.io/publication/ibm-user-guide/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/publication/ibm-user-guide/</guid>
+      <guid>https://veronistar.github.io/publication/ibm-user-guide/</guid>
       <description>Created in cooperation with IBM&amp;rsquo;s Software Lab during a three-month project.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
       <title>Robotics in Space Tech Report</title>
-      <link>https://veronicastarovoit.com/publication/space-robots/</link>
+      <link>https://veronistar.github.io/publication/space-robots/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 -0700</pubDate>
       
-      <guid>https://veronicastarovoit.com/publication/space-robots/</guid>
+      <guid>https://veronistar.github.io/publication/space-robots/</guid>
       <description>Created for a Seneca College Certificate in Technical Communication class project.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>

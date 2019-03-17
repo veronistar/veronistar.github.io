@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on </title>
-    <link>https://veronicastarovoit.com/home/</link>
-    <description>Recent content in Homes on </description>
+    <title>Homes on Veronica Starovoit</title>
+    <link>https://veronistar.github.io/home/</link>
+    <description>Recent content in Homes on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://veronicastarovoit.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://veronistar.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://veronicastarovoit.com/home/slider/</link>
+      <link>https://veronistar.github.io/home/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/slider/</guid>
+      <guid>https://veronistar.github.io/home/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Veronica Starovoit</title>
-      <link>https://veronicastarovoit.com/home/hero/</link>
+      <link>https://veronistar.github.io/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/hero/</guid>
+      <guid>https://veronistar.github.io/home/hero/</guid>
       <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
 Build Anything with Widgets
 Star</description>
@@ -32,91 +32,91 @@ Star</description>
     
     <item>
       <title>Biography</title>
-      <link>https://veronicastarovoit.com/home/about/</link>
+      <link>https://veronistar.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/about/</guid>
+      <guid>https://veronistar.github.io/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://veronicastarovoit.com/home/skills/</link>
+      <link>https://veronistar.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/skills/</guid>
+      <guid>https://veronistar.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://veronicastarovoit.com/home/experience/</link>
+      <link>https://veronistar.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/experience/</guid>
+      <guid>https://veronistar.github.io/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://veronicastarovoit.com/home/accomplishments/</link>
+      <link>https://veronistar.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/accomplishments/</guid>
+      <guid>https://veronistar.github.io/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://veronicastarovoit.com/home/publications_featured/</link>
+      <link>https://veronistar.github.io/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/publications_featured/</guid>
+      <guid>https://veronistar.github.io/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://veronicastarovoit.com/home/talks/</link>
+      <link>https://veronistar.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/talks/</guid>
+      <guid>https://veronistar.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>https://veronicastarovoit.com/home/articles/</link>
+      <link>https://veronistar.github.io/home/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/articles/</guid>
+      <guid>https://veronistar.github.io/home/articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing Samples</title>
-      <link>https://veronicastarovoit.com/home/samples/</link>
+      <link>https://veronistar.github.io/home/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/samples/</guid>
+      <guid>https://veronistar.github.io/home/samples/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://veronicastarovoit.com/home/projects/</link>
+      <link>https://veronistar.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/projects/</guid>
+      <guid>https://veronistar.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>https://veronicastarovoit.com/home/teaching/</link>
+      <link>https://veronistar.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/teaching/</guid>
+      <guid>https://veronistar.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 This section also demonstrates how to apply the background option to create an image parallax effect. Backgrounds can be applied to any section.
   To remove this section, either delete content/home/teaching.md or edit the front matter of the file to deactivate the widget by setting active = false.</description>
@@ -124,28 +124,28 @@ This section also demonstrates how to apply the background option to create an i
     
     <item>
       <title>Popular Topics</title>
-      <link>https://veronicastarovoit.com/home/tags/</link>
+      <link>https://veronistar.github.io/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/tags/</guid>
+      <guid>https://veronistar.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://veronicastarovoit.com/home/people/</link>
+      <link>https://veronistar.github.io/home/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/people/</guid>
+      <guid>https://veronistar.github.io/home/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://veronicastarovoit.com/home/contact/</link>
+      <link>https://veronistar.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://veronicastarovoit.com/home/contact/</guid>
+      <guid>https://veronistar.github.io/home/contact/</guid>
       <description></description>
     </item>
     

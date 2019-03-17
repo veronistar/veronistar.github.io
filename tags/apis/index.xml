@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>APIs on </title>
-    <link>https://veronicastarovoit.com/tags/apis/</link>
-    <description>Recent content in APIs on </description>
+    <title>APIs on Veronica Starovoit</title>
+    <link>https://veronistar.github.io/tags/apis/</link>
+    <description>Recent content in APIs on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2014 22:30:00 -0800</lastBuildDate>
     
-	<atom:link href="https://veronicastarovoit.com/tags/apis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://veronistar.github.io/tags/apis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review of Ed Marshall&#39;s workshop on APIs and SDKs</title>
-      <link>https://veronicastarovoit.com/post/api-workshop/</link>
+      <link>https://veronistar.github.io/post/api-workshop/</link>
       <pubDate>Wed, 24 Sep 2014 22:30:00 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/post/api-workshop/</guid>
+      <guid>https://veronistar.github.io/post/api-workshop/</guid>
       <description>Chances are, if you’re a technical communicator and have recently perused any job descriptions or community forums in this field, you’ve seen numerous references to API, SDK, and other developer documentation. This comes as no surprise, as this is an increasingly digital world and developers are the bread and butter of any company that produces software. This was one point Ed Marshall emphasized in his one-day workshop, “APIs and SDKs: Breaking Into and Succeeding in a Specialty Market”, in New York City.</description>
     </item>
     

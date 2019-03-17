@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://veronicastarovoit.com/</link>
-    <description>Recent content on </description>
+    <title>Veronica Starovoit on Veronica Starovoit</title>
+    <link>https://veronistar.github.io/</link>
+    <description>Recent content in Veronica Starovoit on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2014 22:30:00 -0800</lastBuildDate>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Review of Ed Marshall&#39;s workshop on APIs and SDKs</title>
-      <link>https://veronicastarovoit.com/post/api-workshop/</link>
+      <link>https://veronistar.github.io/post/api-workshop/</link>
       <pubDate>Wed, 24 Sep 2014 22:30:00 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/post/api-workshop/</guid>
+      <guid>https://veronistar.github.io/post/api-workshop/</guid>
       <description>
 
 &lt;p&gt;Chances are, if you’re a technical communicator and have recently perused any job descriptions or community forums in this field, you’ve seen numerous references to API, SDK, and other developer documentation. This comes as no surprise, as this is an increasingly digital world and developers are the bread and butter of any company that produces software. This was one point Ed Marshall emphasized in his one-day workshop, “APIs and SDKs: Breaking Into and Succeeding in a Specialty Market”, in New York City. Ed said that developers should be reminded about how important they are and be supported in their work to produce the best tech possible. We technical writers can add sweetness to their field and make software more digestible.&lt;/p&gt;
@@ -64,10 +64,10 @@ Books written on APIs, learning to program, and API and SDK documentation. Ed re
     
     <item>
       <title>Technical Writing vs Journalism</title>
-      <link>https://veronicastarovoit.com/post/tech-writing-vs-journalism/</link>
+      <link>https://veronistar.github.io/post/tech-writing-vs-journalism/</link>
       <pubDate>Thu, 24 Nov 2011 22:56:51 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/post/tech-writing-vs-journalism/</guid>
+      <guid>https://veronistar.github.io/post/tech-writing-vs-journalism/</guid>
       <description>&lt;p&gt;Less than a month ago, I began transitioning from ‘head in the clouds’ B.A. student to TECHNICAL WRITER (and now I’m shouting it from the rooftops). Many people want to know ‘what is a technical writer’? After my describing it as a writer that works in any industry creating documentation (articles, websites, user guides, reports, specifications, and endless other documents for consumers and people in the industry), they then ask ‘why not be a journalist?’ While it is true that I’ve dabbled in journalism, and continue to do so, this is because of three elemental similarities it has to technical writing:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -94,10 +94,10 @@ Books written on APIs, learning to program, and API and SDK documentation. Ed re
     
     <item>
       <title>IBM Global Process Monitor Models User Guide</title>
-      <link>https://veronicastarovoit.com/publication/ibm-user-guide/</link>
+      <link>https://veronistar.github.io/publication/ibm-user-guide/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/publication/ibm-user-guide/</guid>
+      <guid>https://veronistar.github.io/publication/ibm-user-guide/</guid>
       <description>&lt;p&gt;Created in cooperation with IBM&amp;rsquo;s Software Lab during a three-month project.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/43379893-wbit-gpmm-pdffinal.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
@@ -108,10 +108,10 @@ Books written on APIs, learning to program, and API and SDK documentation. Ed re
     
     <item>
       <title>Robotics in Space Tech Report</title>
-      <link>https://veronicastarovoit.com/publication/space-robots/</link>
+      <link>https://veronistar.github.io/publication/space-robots/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 -0700</pubDate>
       
-      <guid>https://veronicastarovoit.com/publication/space-robots/</guid>
+      <guid>https://veronistar.github.io/publication/space-robots/</guid>
       <description>&lt;p&gt;Created for a &lt;a href=&#34;http://senecatechcomm.com/&#34;&gt;Seneca College Certificate in Technical Communication&lt;/a&gt; class project.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/roboticsinspacetechreport.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;

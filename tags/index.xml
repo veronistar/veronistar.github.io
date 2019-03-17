@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>https://veronicastarovoit.com/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on Veronica Starovoit</title>
+    <link>https://veronistar.github.io/tags/</link>
+    <description>Recent content in Tags on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2014 22:30:00 -0800</lastBuildDate>
     
-	<atom:link href="https://veronicastarovoit.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://veronistar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>APIs</title>
-      <link>https://veronicastarovoit.com/tags/apis/</link>
+      <link>https://veronistar.github.io/tags/apis/</link>
       <pubDate>Wed, 24 Sep 2014 22:30:00 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/tags/apis/</guid>
+      <guid>https://veronistar.github.io/tags/apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SDKs</title>
-      <link>https://veronicastarovoit.com/tags/sdks/</link>
+      <link>https://veronistar.github.io/tags/sdks/</link>
       <pubDate>Wed, 24 Sep 2014 22:30:00 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/tags/sdks/</guid>
+      <guid>https://veronistar.github.io/tags/sdks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>journalism</title>
-      <link>https://veronicastarovoit.com/tags/journalism/</link>
+      <link>https://veronistar.github.io/tags/journalism/</link>
       <pubDate>Thu, 24 Nov 2011 22:56:51 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/tags/journalism/</guid>
+      <guid>https://veronistar.github.io/tags/journalism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech writing</title>
-      <link>https://veronicastarovoit.com/tags/tech-writing/</link>
+      <link>https://veronistar.github.io/tags/tech-writing/</link>
       <pubDate>Thu, 24 Nov 2011 22:56:51 -0800</pubDate>
       
-      <guid>https://veronicastarovoit.com/tags/tech-writing/</guid>
+      <guid>https://veronistar.github.io/tags/tech-writing/</guid>
       <description></description>
     </item>
     
