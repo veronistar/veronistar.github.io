@@ -12,6 +12,22 @@
     
     <url>
     
+      <loc>https://veronistar.github.io/publication/pearson-release-notes/</loc>
+      <lastmod>2019-03-17T14:27:16-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/publication/geosoft-user-guide/</loc>
+      <lastmod>2019-03-17T14:27:16-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://veronistar.github.io/post/tech-writing-vs-journalism/</loc>
       <lastmod>2019-02-24T23:29:31-08:00</lastmod>
     </url>
@@ -37,16 +53,7 @@
     <url>
     
       <loc>https://veronistar.github.io/author/admin/</loc>
-      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronistar.github.io/categories/apis/</loc>
-      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2019-03-17T14:27:16-07:00</lastmod>
     </url>
     
   
@@ -62,16 +69,9 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/post/</loc>
-      <lastmod>2019-03-17T11:46:45-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronistar.github.io/publication/</loc>
-      <lastmod>2019-03-17T11:46:45-07:00</lastmod>
+      <loc>https://veronistar.github.io/categories/apis/</loc>
+      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -88,6 +88,22 @@
     
       <loc>https://veronistar.github.io/authors/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/post/</loc>
+      <lastmod>2019-03-17T14:27:16-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/publication/</loc>
+      <lastmod>2019-03-17T14:27:16-07:00</lastmod>
     </url>
     
   
@@ -119,7 +135,7 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/categories/sdks/</loc>
+      <loc>https://veronistar.github.io/tags/sdks/</loc>
       <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -128,7 +144,7 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/tags/sdks/</loc>
+      <loc>https://veronistar.github.io/categories/sdks/</loc>
       <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -165,6 +181,15 @@
     <url>
     
       <loc>https://veronistar.github.io/authors/admin/</loc>
+      <lastmod>2019-03-17T14:27:16-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/tags/journalism/</loc>
       <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -182,7 +207,7 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/tags/journalism/</loc>
+      <loc>https://veronistar.github.io/tags/tech-writing/</loc>
       <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -192,15 +217,6 @@
     <url>
     
       <loc>https://veronistar.github.io/categories/tech-writing/</loc>
-      <lastmod>2019-02-24T23:29:31-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronistar.github.io/tags/tech-writing/</loc>
       <lastmod>2019-02-24T23:29:31-08:00</lastmod>
       <priority>0</priority>
     </url>

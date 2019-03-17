@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Veronica Starovoit</title>
+    <title>Blog posts on Veronica Starovoit</title>
     <link>https://veronistar.github.io/publication/</link>
-    <description>Recent content in Articles on Veronica Starovoit</description>
+    <description>Recent content in Blog posts on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2019 11:46:45 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 14:27:16 -0700</lastBuildDate>
     
 	<atom:link href="https://veronistar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pearson Schoolnet Release Notes</title>
+      <link>https://veronistar.github.io/publication/pearson-release-notes/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/pearson-release-notes/</guid>
+      <description>What&amp;rsquo;s new with Educator Development. Fully prepared by Veronica (who was the sole writer for this product line).
+PDF can&amp;rsquo;t be displayed :(</description>
+    </item>
+    
+    <item>
+      <title>Geosoft Target How-to Guide</title>
+      <link>https://veronistar.github.io/publication/geosoft-user-guide/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 -0800</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/geosoft-user-guide/</guid>
+      <description>Target How-to Guide - Creating Maps in Target (a Geosoft Inc. product).
+PDF can&amp;rsquo;t be displayed :(</description>
+    </item>
     
     <item>
       <title>IBM Global Process Monitor Models User Guide</title>
