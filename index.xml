@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://veronicastarovoit.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Sep 2014 22:30:00 -0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Review of Ed Marshall&#39;s workshop on APIs and SDKs</title>
+      <link>https://veronicastarovoit.com/post/api-workshop/</link>
+      <pubDate>Wed, 24 Sep 2014 22:30:00 -0800</pubDate>
+      
+      <guid>https://veronicastarovoit.com/post/api-workshop/</guid>
+      <description>
+
+&lt;p&gt;Chances are, if you’re a technical communicator and have recently perused any job descriptions or community forums in this field, you’ve seen numerous references to API, SDK, and other developer documentation. This comes as no surprise, as this is an increasingly digital world and developers are the bread and butter of any company that produces software. This was one point Ed Marshall emphasized in his one-day workshop, “APIs and SDKs: Breaking Into and Succeeding in a Specialty Market”, in New York City. Ed said that developers should be reminded about how important they are and be supported in their work to produce the best tech possible. We technical writers can add sweetness to their field and make software more digestible.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-are-apis-and-sdks&#34;&gt;What are APIs and SDKs?&lt;/h3&gt;
+
+&lt;p&gt;As a simplified analogy, APIs (Application Programming Interfaces) and SDKs (Software Development Kits) are the software equivalent of building blocks. APIs provide a single building block that other software developers and companies can plug into, and use in their own products. Two examples of popular, well-documented APIs are produced by Google Earth (&lt;a href=&#34;https://developers.google.com/earth/&#34; target=&#34;_blank&#34;&gt;https://developers.google.com/earth/&lt;/a&gt;) and Twitter (&lt;a href=&#34;https://dev.twitter.com/&#34; target=&#34;_blank&#34;&gt;https://dev.twitter.com/&lt;/a&gt;). SDKs provide a whole building block kit that users can customize and build what they want. Great examples of SDKs are produced by Microsoft (&lt;a href=&#34;http://msdn.microsoft.com/dn369240#fbid=G1CN74bIus7&#34; target=&#34;_blank&#34;&gt;http://msdn.microsoft.com/dn369240#fbid=G1CN74bIus7&lt;/a&gt;) and Facebook (&lt;a href=&#34;https://developers.facebook.com/docs/sdks/&#34; target=&#34;_blank&#34;&gt;https://developers.facebook.com/docs/sdks/&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h3 id=&#34;what-part-of-apis-and-sdks-is-documentation&#34;&gt;What Part of APIs and SDKs is Documentation?&lt;/h3&gt;
+
+&lt;p&gt;Documentation is an important part of both of APIs and SDKs. Similar to what is provided for other end users, Technical writers create installation, administrator and reference guides to provide information on how each of these work. In addition, it is often necessary or helpful to provide instructions, code comments and even working code examples about how the blocks may be used. Ed Marshall, who has over 25 years experience in the field of technical writing, is a specialist in developer documentation. He is one of the only trainers on this topic.&lt;/p&gt;
+
+&lt;h3 id=&#34;two-industry-standard-tools&#34;&gt;Two industry-standard tools&lt;/h3&gt;
+
+&lt;p&gt;Ed covered two industry-standard tools in his workshop for providing documentation – Doxygen and JavaDocs.&lt;/p&gt;
+
+&lt;h4 id=&#34;doxygen&#34;&gt;Doxygen&lt;/h4&gt;
+
+&lt;p&gt;A powerful and free tool, Doxygen (&lt;a href=&#34;http://www.stack.nl/~dimitri/doxygen/&#34; target=&#34;_blank&#34;&gt;http://www.stack.nl/~dimitri/doxygen/&lt;/a&gt;) supports developer documentation in C/C++, Java, Python, IDL (Interactive Data Language) and C#. Ed walked us through best practice information, example exercises, and documentation snippets to add to a sample codebase. For the seminar, we downloaded and used Microsoft’s HTML Help Workshop, (&lt;a href=&#34;http://www.microsoft.com/en-us/download/details.aspx?id=21138&#34; target=&#34;_blank&#34;&gt;http://www.microsoft.com/en-us/download/details.aspx?id=21138&lt;/a&gt;) and generated our Doxygen documentation into it.&lt;/p&gt;
+
+&lt;h4 id=&#34;javadoc&#34;&gt;Javadoc&lt;/h4&gt;
+
+&lt;p&gt;Another industry-standard tool Javadoc by Oracle, (&lt;a href=&#34;http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html&#34; target=&#34;_blank&#34;&gt;http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html&lt;/a&gt;), was also covered. This tool is also free and used for documenting Java programs. To supplement this tool, we downloaded NetBeans (&lt;a href=&#34;https://netbeans.org/&#34; target=&#34;_blank&#34;&gt;https://netbeans.org/&lt;/a&gt;), which is the equivalent to Flare/RoboHelp software for developers. It helps them organize and manage their coding. We created a project using the NetBeans environment similar to where developers do their work. We were able to add our own documentation to the environment and insert it straight into the Java codebase that developers would use during development. By working in the same source control setup and environment as developers, technical writers can see what code has been worked on and edit the documentation that goes with it, as needed. Watch out, though – we have to be sure not to break any code or builds with our own edits!&lt;/p&gt;
+
+&lt;h3 id=&#34;the-conclusion-should-you-go-into-developer-documentation&#34;&gt;The Conclusion: Should You Go into Developer Documentation?&lt;/h3&gt;
+
+&lt;p&gt;Ed Marshall’s seminar definitely covered this question, and I will share some of his considerations:
+Developer documentation is more technical, risky and advanced than most end user work. There is a real shortage of talent in this field, and as a result, the pay is on average 30-40% more.
+You will have to learn some code, but mainly to read and comment on it, not to be a programmer (although some jobs do ask you to build working code samples). Ed recommended C/C++, C#, and/or Java as some popular languages to start learning.
+Some personality traits which will make you successful are: the ability to work well with and extract information from developers, a willingness to work with programmer types of tools, an ability to write geared for developers (that is, eliminate all fluff and even use sentence fragments when you know they’ll be scanning for one point), keep information complete and easy-to-find, and find your own tools and courses to keep up-to-date with this field, as it’s constantly growing and changing.
+Break into the market by writing some example programs, or write some helpful developer documentation to aid with your own company’s APIs, SDKs, and codebase.&lt;/p&gt;
+
+&lt;h3 id=&#34;additional-resources&#34;&gt;Additional Resources&lt;/h3&gt;
+
+&lt;p&gt;Here are some additional resources to help you with your research:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marshalldocumentationservices.com/&#34; target=&#34;_blank&#34;&gt;http://www.marshalldocumentationservices.com/&lt;/a&gt; - Ed Marshall’s website, which has a list of upcoming workshops and presentations on this field. I’ve barely scratched the surface of what was taught. You can also follow him on Twitter @EdMarshall.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://groups.yahoo.com/group/svcstcapi&#34; target=&#34;_blank&#34;&gt;http://groups.yahoo.com/group/svcstcapi&lt;/a&gt; - A Yahoo group for the STC’s API SIG.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linkedin.com/groups/API-Documentation-3709151?&#34; target=&#34;_blank&#34;&gt;http://www.linkedin.com/groups/API-Documentation-3709151?&lt;/a&gt; - A LinkedIn group for API Documentation, started by my fellow Seneca College Technical Communication program alumnus.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stc.org/&#34; target=&#34;_blank&#34;&gt;http://www.stc.org/&lt;/a&gt; - STC Conferences and Workshops.
+Books written on APIs, learning to program, and API and SDK documentation. Ed recommended Manual Gordon’s API workbooks (&lt;a href=&#34;http://www.thirdwavestudios.com/gg/api_workbook.html&#34; target=&#34;_blank&#34;&gt;http://www.thirdwavestudios.com/gg/api_workbook.html&lt;/a&gt;) and “Documenting APIs Writing Developer Documentation for Java™ APIs and SDKs” by James F. Bisso and Victoria Maki, currently sold here (&lt;a href=&#34;http://www.bitzone.com/&#34; target=&#34;_blank&#34;&gt;http://www.bitzone.com/&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org&#34; target=&#34;_blank&#34;&gt;https://www.coursera.org&lt;/a&gt; and &lt;a href=&#34;http://www.codecademy.com/&#34; target=&#34;_blank&#34;&gt;http://www.codecademy.com/&lt;/a&gt; - For learning how to code and sample exercises.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Writing vs Journalism</title>
+      <link>https://veronicastarovoit.com/post/tech-writing-vs-journalism/</link>
+      <pubDate>Thu, 24 Nov 2011 22:56:51 -0800</pubDate>
+      
+      <guid>https://veronicastarovoit.com/post/tech-writing-vs-journalism/</guid>
+      <description>&lt;p&gt;Less than a month ago, I began transitioning from ‘head in the clouds’ B.A. student to TECHNICAL WRITER (and now I’m shouting it from the rooftops). Many people want to know ‘what is a technical writer’? After my describing it as a writer that works in any industry creating documentation (articles, websites, user guides, reports, specifications, and endless other documents for consumers and people in the industry), they then ask ‘why not be a journalist?’ While it is true that I’ve dabbled in journalism, and continue to do so, this is because of three elemental similarities it has to technical writing:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;It’s still writing. As a writer, I need all the practice I can get obeying word limits, using proper punctuation and wording, and making a document look good on a page, online, or on another medium.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;They both involve researching heavily. I don’t feel ready to start any writing project until I have at least 50% of the word count down as an outline or research notes. Through working in journalism, I have interviewed, done fieldwork, and searched through sometimes tens of thousands of pages of research.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;They both involve catering to the masses. I can never write without many other people in mind anymore. Even a simple Facebook or Twitter post I tailor to friends, enemies, family members, teachers, and future employers who I think may possibly read it. When I’m writing for the Internet or printed documentation, this skill will prove invaluable to me. Now, however, I feel like Mel Gibson’s character in Conspiracy Theory.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As for why I chose technical writing instead of journalism:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The money. Yes, I admit it. It’s simple math: the average annual salary for an entry-level journalist with any degree is about $29,000 (not much more than minimum wage in Canada). The salary for an entry-level technical writer is $60,000 on average, and with a B.A. and postgraduate training in technical writing, this increases exponentially. After ten years in the industry, successful journalists can make about $50,000 annually. Successful technical writers, on the other hand, can make well over six figures. My sources? &lt;a href=&#34;http://www.payscale.com/research/CA/Job=Technical_Writer/Salary&#34; target=&#34;_blank&#34;&gt;http://www.payscale.com/research/CA/Job=Technical_Writer/Salary&lt;/a&gt;, &lt;a href=&#34;http://www.payscale.com/research/CA/Job=Journalist/Salary&#34; target=&#34;_blank&#34;&gt;http://www.payscale.com/research/CA/Job=Journalist/Salary&lt;/a&gt;, and &lt;a href=&#34;http://articles.moneycentral.msn.com/Investing/Forbes/10SurprisingSixFigureJobs.aspx&#34; target=&#34;_blank&#34;&gt;http://articles.moneycentral.msn.com/Investing/Forbes/10SurprisingSixFigureJobs.aspx&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The job satisfaction. Now, this might have to do something with money, but I think it has more to do with job stability, benefits, and levels of stress. Journalism, I have to admit, gets me very stressed, annoyed, and exhausted at times. This is, of course, not unavoidable in technical writing, but I think the worst parts of journalism are padding what should be 50-word articles into 500 words and not knowing where my next news story will come from. Technical writing usually doesn’t have either of these problems, because as soon as there’s a new product on the market, it’s up to the technical writer to research every possibly useful or interesting detail about it and send it along to marketing, the public, and anyone else who may need to know about it. More satisfaction comes after the completion of such a writing project. News stories, after all, are considered ‘old’ after a week, but technical documentation may be read by hundreds to millions of people for as long as the products it comes with stay in use.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The benefits. While I do have a few “I have a friend who became a technical writer” stories, I’ll stick with the more consistent benefits of being a technical writer. It all depends on the employer and how much they want you, but gauging from job research, it’s not uncommon for technical writers to: play around with the product they’re writing about before the general public, have employers pay for additional training and higher education, interview highly educated and intelligent individuals on a pretty regular basis, decide if you’d rather telecommute than work 9-5 in an office, and the list goes on.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The technology. This is my favorite benefit and my ‘niche’, so to speak. I’m pretty handy with computers, cellphones, telescopes, hardware, and software and aware that this is very rare for a writer. Writing and technology tend to be on opposite sides of the knowledge spectrum, so I consider myself quite the nerd. Other proof of my nerd-status includes having astronomy for a hobby, an obsession with all things sci-fi, considering organization an art, and having over 300 books in my personal library including several large volumes of software documentation.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robotics in Space Tech Report</title>
+      <link>https://veronicastarovoit.com/publication/space-robots/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronicastarovoit.com/publication/space-robots/</guid>
+      <description>&lt;p&gt;&lt;object data=&#34;/static/img/roboticsinspacetechreport.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+    &lt;embed src=&#34;https://veronicastarovoit.com/static/img/roboticsinspacetechreport.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://yoursite.com/the.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

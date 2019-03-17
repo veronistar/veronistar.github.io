@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veronica Starovoit on </title>
+    <link>https://veronicastarovoit.com/authors/veronica-starovoit/</link>
+    <description>Recent content in Veronica Starovoit on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Sep 2014 22:30:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://veronicastarovoit.com/authors/veronica-starovoit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Review of Ed Marshall&#39;s workshop on APIs and SDKs</title>
+      <link>https://veronicastarovoit.com/post/api-workshop/</link>
+      <pubDate>Wed, 24 Sep 2014 22:30:00 -0800</pubDate>
+      
+      <guid>https://veronicastarovoit.com/post/api-workshop/</guid>
+      <description>Chances are, if you’re a technical communicator and have recently perused any job descriptions or community forums in this field, you’ve seen numerous references to API, SDK, and other developer documentation. This comes as no surprise, as this is an increasingly digital world and developers are the bread and butter of any company that produces software. This was one point Ed Marshall emphasized in his one-day workshop, “APIs and SDKs: Breaking Into and Succeeding in a Specialty Market”, in New York City.</description>
+    </item>
+    
+    <item>
+      <title>Technical Writing vs Journalism</title>
+      <link>https://veronicastarovoit.com/post/tech-writing-vs-journalism/</link>
+      <pubDate>Thu, 24 Nov 2011 22:56:51 -0800</pubDate>
+      
+      <guid>https://veronicastarovoit.com/post/tech-writing-vs-journalism/</guid>
+      <description>Less than a month ago, I began transitioning from ‘head in the clouds’ B.A. student to TECHNICAL WRITER (and now I’m shouting it from the rooftops). Many people want to know ‘what is a technical writer’? After my describing it as a writer that works in any industry creating documentation (articles, websites, user guides, reports, specifications, and endless other documents for consumers and people in the industry), they then ask ‘why not be a journalist?</description>
+    </item>
+    
+  </channel>
+</rss>
