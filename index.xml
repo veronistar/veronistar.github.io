@@ -98,11 +98,9 @@ Books written on APIs, learning to program, and API and SDK documentation. Ed re
       <pubDate>Wed, 01 Sep 2010 00:00:00 -0700</pubDate>
       
       <guid>https://veronicastarovoit.com/publication/space-robots/</guid>
-      <description>&lt;p&gt;&lt;object data=&#34;/static/img/roboticsinspacetechreport.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
-    &lt;embed src=&#34;https://veronicastarovoit.com/static/img/roboticsinspacetechreport.pdf&#34;&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://yoursite.com/the.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &lt;/embed&gt;
-&lt;/object&gt;&lt;/p&gt;
+      <description>&lt;iframe src=&#34;http://docs.google.com/gview?url=
+        veronistar.github.io/img/roboticsinspacetechreport.pdf
+      &amp;embedded=true&#34; style=&#34;width:718px; height:700px;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
