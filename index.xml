@@ -6,8 +6,29 @@
     <description>Recent content in Veronica Starovoit on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Sep 2014 22:30:00 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Advertising Help Center</title>
+      <link>https://veronistar.github.io/publication/amazon-ads-hc/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/amazon-ads-hc/</guid>
+      <description>&lt;p&gt;Amazon Advertising help center owned and maintained by Veronica Starovoit. Most content was written by her in collaboration with product managers, partner managers, and other subject matter experts. Maintained using a Middleman static site generator.&lt;/p&gt;
+
+&lt;p&gt;Initiatives she ran to improve it included:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;launching Japanese localization&lt;/li&gt;
+&lt;li&gt;working with the UX Design team to redesign the experience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/amaz-ad-hc.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
+    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
+&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Review of Ed Marshall&#39;s workshop on APIs and SDKs</title>
@@ -59,6 +80,20 @@ Break into the market by writing some example programs, or write some helpful de
 Books written on APIs, learning to program, and API and SDK documentation. Ed recommended Manual Gordon’s API workbooks (&lt;a href=&#34;http://www.thirdwavestudios.com/gg/api_workbook.html&#34; target=&#34;_blank&#34;&gt;http://www.thirdwavestudios.com/gg/api_workbook.html&lt;/a&gt;) and “Documenting APIs Writing Developer Documentation for Java™ APIs and SDKs” by James F. Bisso and Victoria Maki, currently sold here (&lt;a href=&#34;http://www.bitzone.com/&#34; target=&#34;_blank&#34;&gt;http://www.bitzone.com/&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.coursera.org&#34; target=&#34;_blank&#34;&gt;https://www.coursera.org&lt;/a&gt; and &lt;a href=&#34;http://www.codecademy.com/&#34; target=&#34;_blank&#34;&gt;http://www.codecademy.com/&lt;/a&gt; - For learning how to code and sample exercises.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pearson Documentation Style Guide</title>
+      <link>https://veronistar.github.io/publication/pearson-style-guide/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/pearson-style-guide/</guid>
+      <description>&lt;p&gt;Editorial style guide adopted by the Pearson Schoolnet Technical Writing team. Created by Veronica.&lt;/p&gt;
+
+&lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/SchoolnetStyleGuide.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
+    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
+&lt;/object&gt;&lt;/p&gt;
 </description>
     </item>
     
