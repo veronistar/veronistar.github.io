@@ -6,8 +6,22 @@
     <description>Recent content in Veronica Starovoit on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Promotion Document</title>
+      <link>https://veronistar.github.io/work/promo/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/work/promo/</guid>
+      <description>&lt;p&gt;Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/Promo doc - Veronica Starovoit.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
+    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
+&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Advertising Help Center</title>
@@ -45,7 +59,7 @@
     </item>
     
     <item>
-      <title>Pages UI Copy Feedback</title>
+      <title>Amazon Pages UI Copy Feedback</title>
       <link>https://veronistar.github.io/publication/pages-ui-copy/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
@@ -67,20 +81,6 @@
       <description>&lt;p&gt;Veronica created a few reports by cleaning up and graphing raw help center usage data. Regularly reported on data included most used help topics, unique monthly users, user characteristics, and where users accessed the help center. All graphs were created in Excel and data was pulled via SQL queries.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/non-operational_help-metrics.xlsx?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
-    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
-&lt;/object&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Promotion Document</title>
-      <link>https://veronistar.github.io/work/promo/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/work/promo/</guid>
-      <description>&lt;p&gt;Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.&lt;/p&gt;
-
-&lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/Promo doc - Veronica Starovoit.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
     &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
 &lt;/object&gt;&lt;/p&gt;
 </description>
@@ -145,7 +145,7 @@ Books written on APIs, learning to program, and API and SDK documentation. Ed re
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
       
       <guid>https://veronistar.github.io/publication/pearson-style-guide/</guid>
-      <description>&lt;p&gt;Editorial style guide adopted by the Pearson Schoolnet Technical Writing team. Created by Veronica.&lt;/p&gt;
+      <description>&lt;p&gt;Editorial style guide adopted by the Pearson Schoolnet Technical Writing team. Created by Veronica. What a gem.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/SchoolnetStyleGuide.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
     &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;

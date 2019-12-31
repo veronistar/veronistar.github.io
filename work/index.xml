@@ -6,10 +6,20 @@
     <description>Recent content in Blog posts on Veronica Starovoit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://veronistar.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Promotion Document</title>
+      <link>https://veronistar.github.io/work/promo/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/work/promo/</guid>
+      <description>Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.
+PDF can&amp;rsquo;t be displayed :(</description>
+    </item>
     
     <item>
       <title>UFO Sightings Data Analytics Presentation</title>
@@ -28,16 +38,6 @@ PDF can&amp;rsquo;t be displayed :(</description>
       
       <guid>https://veronistar.github.io/work/help-metrics/</guid>
       <description>Veronica created a few reports by cleaning up and graphing raw help center usage data. Regularly reported on data included most used help topics, unique monthly users, user characteristics, and where users accessed the help center. All graphs were created in Excel and data was pulled via SQL queries.
-PDF can&amp;rsquo;t be displayed :(</description>
-    </item>
-    
-    <item>
-      <title>Amazon Promotion Document</title>
-      <link>https://veronistar.github.io/work/promo/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/work/promo/</guid>
-      <description>Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
