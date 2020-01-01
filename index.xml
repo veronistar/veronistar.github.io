@@ -45,6 +45,60 @@
     </item>
     
     <item>
+      <title>Amazon Advertising Transactional Emails</title>
+      <link>https://veronistar.github.io/publication/transactional-emails/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/transactional-emails/</guid>
+      <description>
+
+&lt;p&gt;The following are samples of emails Veronica drafted for the Amazon Advertising Platform. They&amp;rsquo;re based on the following brand voice tenets:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sound like people talking to people&lt;/li&gt;
+&lt;li&gt;Professional but conversational&lt;/li&gt;
+&lt;li&gt;Stay grounded in stories and needs of actual advertising customers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;campaign-submitted&#34;&gt;Campaign submitted&lt;/h3&gt;
+
+&lt;p&gt;Hello {First Name},&lt;/p&gt;
+
+&lt;p&gt;Thank you for using Amazon Advertising to advertise your products. Your campaign “{Campaign name}” is currently under review by our moderators. The review process is usually completed within 24 hours, but may take as long as 3 business days.&lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;/p&gt;
+
+&lt;p&gt;The Amazon Display Ads Team&lt;/p&gt;
+
+&lt;h3 id=&#34;campaign-approved&#34;&gt;Campaign approved&lt;/h3&gt;
+
+&lt;p&gt;Hello {First Name}, &lt;/p&gt;
+
+&lt;p&gt;Congratulations! Your Amazon ad campaign {Campaign name} has been approved. Visit {Link to campaign} to view your ad campaign performance and make adjustments as needed. &lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;/p&gt;
+
+&lt;p&gt;The Amazon Display Ads Team&lt;/p&gt;
+
+&lt;h3 id=&#34;campaign-rejected&#34;&gt;Campaign rejected&lt;/h3&gt;
+
+&lt;p&gt;Hello {First Name}, &lt;/p&gt;
+
+&lt;p&gt;Thank you for submitting your campaign “{Campaign name}” for review. Unfortunately, we weren&amp;rsquo;t able to approve your campaign as it violates at least one of our &lt;u&gt;ad policy guidelines&lt;/u&gt;. Please fix the following issues and save your campaign or creative:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Refer to the “Blurb” column in Moderation Rejection Copy for full list of possible rejection reasons that can be shown. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Saving will submit the campaign to Amazon for review. The review process is usually completed within 24 hours, but may take as long as 3 business days. Once approved, your campaign can start running. &lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;/p&gt;
+
+&lt;p&gt;The Amazon Display Ads Team&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>UFO Sightings Data Analytics Presentation</title>
       <link>https://veronistar.github.io/work/alien-sightings/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
