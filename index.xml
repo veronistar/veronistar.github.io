@@ -6,22 +6,8 @@
     <description>Recent content in Welcome to VeronicaStarovoit.com on Welcome to VeronicaStarovoit.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Amazon Promotion Document</title>
-      <link>https://veronistar.github.io/work/promo/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/work/promo/</guid>
-      <description>&lt;p&gt;Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.&lt;/p&gt;
-
-&lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/Promo doc - Veronica Starovoit.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
-    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
-&lt;/object&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Amazon Advertising Help Center</title>
@@ -99,14 +85,14 @@
     </item>
     
     <item>
-      <title>UFO Sightings Data Analytics Presentation</title>
-      <link>https://veronistar.github.io/work/alien-sightings/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+      <title>Amazon Advertising Conversion Attribution</title>
+      <link>https://veronistar.github.io/publication/amazon-conversion/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/work/alien-sightings/</guid>
-      <description>&lt;p&gt;The following presentation was Veronica&amp;rsquo;s final project for General Assembly&amp;rsquo;s Data Analytics certificate. Veronica used a combination of SQL, Excel, and Tableau software to groom data and create graphs.&lt;/p&gt;
+      <guid>https://veronistar.github.io/publication/amazon-conversion/</guid>
+      <description>&lt;p&gt;Explaining a technical, proprietary concept. This was part of the Amazon Advertising help center owned and maintained by Veronica Starovoit. Most content was written by her in collaboration with product managers, engineers, and other subject matter experts.&lt;/p&gt;
 
-&lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;450&#34; type=&#34;application/pdf&#34; data=&#34;/img/UFO Sightings Presentation.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
+&lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/Amazon_conversion_attribution.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
     &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
 &lt;/object&gt;&lt;/p&gt;
 </description>
@@ -127,14 +113,28 @@
     </item>
     
     <item>
-      <title>Amazon Advertising Help Center Metrics (downloads file)</title>
-      <link>https://veronistar.github.io/work/help-metrics/</link>
+      <title>Amazon Promotion Document</title>
+      <link>https://veronistar.github.io/publication/promo/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
-      <guid>https://veronistar.github.io/work/help-metrics/</guid>
-      <description>&lt;p&gt;Veronica created a few reports by cleaning up and graphing raw help center usage data. Regularly reported on data included most used help topics, unique monthly users, user characteristics, and where users accessed the help center. All graphs were created in Excel and data was pulled via SQL queries.&lt;/p&gt;
+      <guid>https://veronistar.github.io/publication/promo/</guid>
+      <description>&lt;p&gt;Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.&lt;/p&gt;
 
-&lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/non-operational_help-metrics.xlsx?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
+&lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/Promo doc - Veronica Starovoit.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
+    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
+&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pearson API</title>
+      <link>https://veronistar.github.io/publication/pearson-api/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/pearson-api/</guid>
+      <description>&lt;p&gt;An excerpt of content from a larger set about the Pearson Global Platform Services APIs. Veronica was the sole technical writer on this project and collaborated with engineers, product managers, and other cross-functional teams to produce this manual.&lt;/p&gt;
+
+&lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/Pearson-API.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
     &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
 &lt;/object&gt;&lt;/p&gt;
 </description>
@@ -191,20 +191,6 @@
       <description>&lt;p&gt;Created in cooperation with IBM&amp;rsquo;s Software Lab during a three-month project.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/43379893-wbit-gpmm-pdffinal.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
-    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
-&lt;/object&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Robotics in Space Tech Report</title>
-      <link>https://veronistar.github.io/publication/space-robots/</link>
-      <pubDate>Wed, 01 Sep 2010 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/publication/space-robots/</guid>
-      <description>&lt;p&gt;Created for a &lt;a href=&#34;http://senecatechcomm.com/&#34;&gt;Seneca College Certificate in Technical Communication&lt;/a&gt; class project.&lt;/p&gt;
-
-&lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/roboticsinspacetechreport.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
     &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
 &lt;/object&gt;&lt;/p&gt;
 </description>

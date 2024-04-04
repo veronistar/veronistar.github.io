@@ -4,14 +4,6 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/work/promo/</loc>
-      <lastmod>2024-02-09T14:07:14-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://veronistar.github.io/publication/amazon-ads-hc/</loc>
       <lastmod>2024-02-09T14:07:14-08:00</lastmod>
     </url>
@@ -28,8 +20,8 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/work/alien-sightings/</loc>
-      <lastmod>2024-02-09T14:07:14-08:00</lastmod>
+      <loc>https://veronistar.github.io/publication/amazon-conversion/</loc>
+      <lastmod>2018-05-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -44,8 +36,16 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/work/help-metrics/</loc>
-      <lastmod>2024-02-09T14:07:14-08:00</lastmod>
+      <loc>https://veronistar.github.io/publication/promo/</loc>
+      <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/publication/pearson-api/</loc>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -84,14 +84,6 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/publication/space-robots/</loc>
-      <lastmod>2019-03-17T12:14:02-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://veronistar.github.io/author/admin/</loc>
       <lastmod>2024-02-09T14:07:14-08:00</lastmod>
     </url>
@@ -116,22 +108,6 @@
     
     <url>
     
-      <loc>https://veronistar.github.io/publication/</loc>
-      <lastmod>2024-02-09T14:07:14-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronistar.github.io/work/</loc>
-      <lastmod>2024-02-09T14:07:14-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://veronistar.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -142,14 +118,6 @@
     
       <loc>https://veronistar.github.io/publication_types/</loc>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://veronistar.github.io/talk/</loc>
-      <lastmod>2019-02-24T15:42:18-08:00</lastmod>
     </url>
     
   
@@ -167,6 +135,14 @@
       <loc>https://veronistar.github.io/</loc>
       <lastmod>2024-02-09T14:07:14-08:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://veronistar.github.io/publication/</loc>
+      <lastmod>2024-02-09T14:07:14-08:00</lastmod>
     </url>
     
   

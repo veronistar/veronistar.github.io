@@ -99,7 +99,7 @@ PDF can&rsquo;t be displayed :(">
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-135495305-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -145,6 +145,32 @@ PDF can&rsquo;t be displayed :("><meta property="og:image" content="https://vero
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#EF525B",
+          "text": "#EAE7D6"
+        },
+        "button": {
+          "background": "#EAE7D6",
+          "text": "#EF525B"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
   
 
@@ -234,7 +260,7 @@ PDF can&rsquo;t be displayed :("><meta property="og:image" content="https://vero
         <li class="nav-item">
           <a class="nav-link" href="/#experience">
             
-            <span>Experience</span>
+            <span>Work Experience</span>
             
           </a>
         </li>
@@ -254,25 +280,6 @@ PDF can&rsquo;t be displayed :("><meta property="og:image" content="https://vero
           <a class="nav-link" href="/#samples">
             
             <span>Writing Samples</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#work">
-            
-            <span>Other Work Samples</span>
             
           </a>
         </li>
@@ -385,45 +392,6 @@ PDF can&rsquo;t be displayed :("><meta property="og:image" content="https://vero
 
   
     
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Amazon%20Pages%20UI%20Copy%20Feedback&amp;url=https%3a%2f%2fveronistar.github.io%2fpublication%2fpages-ui-copy%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fveronistar.github.io%2fpublication%2fpages-ui-copy%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fveronistar.github.io%2fpublication%2fpages-ui-copy%2f&amp;title=Amazon%20Pages%20UI%20Copy%20Feedback"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fveronistar.github.io%2fpublication%2fpages-ui-copy%2f&amp;title=Amazon%20Pages%20UI%20Copy%20Feedback"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Amazon%20Pages%20UI%20Copy%20Feedback&amp;body=https%3a%2f%2fveronistar.github.io%2fpublication%2fpages-ui-copy%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
 
   
 
@@ -547,6 +515,21 @@ PDF can&rsquo;t be displayed :("><meta property="og:image" content="https://vero
         </a>
       </li>
       
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/files/cv.pdf" >
+          <i class="ai ai-cv"></i>
+        </a>
+      </li>
+      
     </ul>
   </div>
 </div>
@@ -567,7 +550,7 @@ PDF can&rsquo;t be displayed :("><meta property="og:image" content="https://vero
     
 
     Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://themes.gohugo.io/themes/theme-academic-cv/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
     

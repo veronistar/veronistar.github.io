@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog posts on Welcome to VeronicaStarovoit.com</title>
+    <title>Writing Samples (more available upon request) on Welcome to VeronicaStarovoit.com</title>
     <link>https://veronistar.github.io/publication/</link>
-    <description>Recent content in Blog posts on Welcome to VeronicaStarovoit.com</description>
+    <description>Recent content in Writing Samples (more available upon request) on Welcome to VeronicaStarovoit.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2024 14:07:14 -0800</lastBuildDate>
@@ -34,12 +34,42 @@ Thank you for using Amazon Advertising to advertise your products. Your campaign
     </item>
     
     <item>
+      <title>Amazon Advertising Conversion Attribution</title>
+      <link>https://veronistar.github.io/publication/amazon-conversion/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/amazon-conversion/</guid>
+      <description>Explaining a technical, proprietary concept. This was part of the Amazon Advertising help center owned and maintained by Veronica Starovoit. Most content was written by her in collaboration with product managers, engineers, and other subject matter experts.
+PDF can&amp;rsquo;t be displayed :(</description>
+    </item>
+    
+    <item>
       <title>Amazon Pages UI Copy Feedback</title>
       <link>https://veronistar.github.io/publication/pages-ui-copy/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
       <guid>https://veronistar.github.io/publication/pages-ui-copy/</guid>
       <description>Pages is an Amazon product where advertisers can create custom landing pages for their products and brands on the Amazon retail site. The following document includes UI copy feedback provided by Veronica to the UX Designer and Software Engineer for Pages.
+PDF can&amp;rsquo;t be displayed :(</description>
+    </item>
+    
+    <item>
+      <title>Amazon Promotion Document</title>
+      <link>https://veronistar.github.io/publication/promo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/promo/</guid>
+      <description>Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.
+PDF can&amp;rsquo;t be displayed :(</description>
+    </item>
+    
+    <item>
+      <title>Pearson API</title>
+      <link>https://veronistar.github.io/publication/pearson-api/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://veronistar.github.io/publication/pearson-api/</guid>
+      <description>An excerpt of content from a larger set about the Pearson Global Platform Services APIs. Veronica was the sole technical writer on this project and collaborated with engineers, product managers, and other cross-functional teams to produce this manual.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
@@ -80,16 +110,6 @@ PDF can&amp;rsquo;t be displayed :(</description>
       
       <guid>https://veronistar.github.io/publication/ibm-user-guide/</guid>
       <description>Created in cooperation with IBM&amp;rsquo;s Software Lab during a three-month project.
-PDF can&amp;rsquo;t be displayed :(</description>
-    </item>
-    
-    <item>
-      <title>Robotics in Space Tech Report</title>
-      <link>https://veronistar.github.io/publication/space-robots/</link>
-      <pubDate>Wed, 01 Sep 2010 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/publication/space-robots/</guid>
-      <description>Created for a Seneca College Certificate in Technical Communication class project.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
