@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thanks for visiting VeronicaStarovoit.com on Thanks for visiting VeronicaStarovoit.com</title>
-    <link>https://veronistar.github.io/</link>
-    <description>Recent content in Thanks for visiting VeronicaStarovoit.com on Thanks for visiting VeronicaStarovoit.com</description>
+    <title>Thanks for visiting VeronicaStarovoit.com! on Thanks for visiting VeronicaStarovoit.com!</title>
+    <link>https://www.veronicastarovoit.com/</link>
+    <description>Recent content in Thanks for visiting VeronicaStarovoit.com! on Thanks for visiting VeronicaStarovoit.com!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0700</lastBuildDate>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Amazon Advertising Help Center</title>
-      <link>https://veronistar.github.io/publication/amazon-ads-hc/</link>
+      <link>https://www.veronicastarovoit.com/publication/amazon-ads-hc/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/amazon-ads-hc/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/amazon-ads-hc/</guid>
       <description>&lt;p&gt;Amazon Advertising help center owned and maintained by Veronica Starovoit. Most content was written by her in collaboration with product managers, partner managers, and other subject matter experts. Maintained using a Middleman static site generator.&lt;/p&gt;
 
 &lt;p&gt;Initiatives she ran to improve it included:&lt;/p&gt;
@@ -31,65 +31,11 @@
     </item>
     
     <item>
-      <title>Amazon Advertising Transactional Emails</title>
-      <link>https://veronistar.github.io/publication/transactional-emails/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/publication/transactional-emails/</guid>
-      <description>
-
-&lt;p&gt;The following are samples of emails Veronica drafted for the Amazon Advertising Platform. They&amp;rsquo;re based on the following brand voice tenets:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sound like people talking to people&lt;/li&gt;
-&lt;li&gt;Professional but conversational&lt;/li&gt;
-&lt;li&gt;Stay grounded in stories and needs of actual advertising customers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;campaign-submitted&#34;&gt;Campaign submitted&lt;/h3&gt;
-
-&lt;p&gt;Hello {First Name},&lt;/p&gt;
-
-&lt;p&gt;Thank you for using Amazon Advertising to advertise your products. Your campaign “{Campaign name}” is currently under review by our moderators. The review process is usually completed within 24 hours, but may take as long as 3 business days.&lt;/p&gt;
-
-&lt;p&gt;Sincerely,&lt;/p&gt;
-
-&lt;p&gt;The Amazon Display Ads Team&lt;/p&gt;
-
-&lt;h3 id=&#34;campaign-approved&#34;&gt;Campaign approved&lt;/h3&gt;
-
-&lt;p&gt;Hello {First Name}, &lt;/p&gt;
-
-&lt;p&gt;Congratulations! Your Amazon ad campaign {Campaign name} has been approved. Visit {Link to campaign} to view your ad campaign performance and make adjustments as needed. &lt;/p&gt;
-
-&lt;p&gt;Sincerely,&lt;/p&gt;
-
-&lt;p&gt;The Amazon Display Ads Team&lt;/p&gt;
-
-&lt;h3 id=&#34;campaign-rejected&#34;&gt;Campaign rejected&lt;/h3&gt;
-
-&lt;p&gt;Hello {First Name}, &lt;/p&gt;
-
-&lt;p&gt;Thank you for submitting your campaign “{Campaign name}” for review. Unfortunately, we weren&amp;rsquo;t able to approve your campaign as it violates at least one of our &lt;u&gt;ad policy guidelines&lt;/u&gt;. Please fix the following issues and save your campaign or creative:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Refer to the “Blurb” column in Moderation Rejection Copy for full list of possible rejection reasons that can be shown. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Saving will submit the campaign to Amazon for review. The review process is usually completed within 24 hours, but may take as long as 3 business days. Once approved, your campaign can start running. &lt;/p&gt;
-
-&lt;p&gt;Sincerely,&lt;/p&gt;
-
-&lt;p&gt;The Amazon Display Ads Team&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Amazon Advertising Conversion Attribution</title>
-      <link>https://veronistar.github.io/publication/amazon-conversion/</link>
+      <link>https://www.veronicastarovoit.com/publication/amazon-conversion/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/amazon-conversion/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/amazon-conversion/</guid>
       <description>&lt;p&gt;Explaining a technical, proprietary concept. This was part of the Amazon Advertising help center owned and maintained by Veronica Starovoit. Most content was written by her in collaboration with product managers, engineers, and other subject matter experts.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/Amazon_conversion_attribution.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
@@ -100,10 +46,10 @@
     
     <item>
       <title>Amazon Pages UI Copy Feedback</title>
-      <link>https://veronistar.github.io/publication/pages-ui-copy/</link>
+      <link>https://www.veronicastarovoit.com/publication/pages-ui-copy/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/pages-ui-copy/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/pages-ui-copy/</guid>
       <description>&lt;p&gt;Pages is an Amazon product where advertisers can create custom landing pages for their products and brands on the Amazon retail site. The following document includes UI copy feedback provided by Veronica to the UX Designer and Software Engineer for Pages.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/Pages UI feedback.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
@@ -114,10 +60,10 @@
     
     <item>
       <title>Amazon Promotion Document</title>
-      <link>https://veronistar.github.io/publication/promo/</link>
+      <link>https://www.veronicastarovoit.com/publication/promo/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
-      <guid>https://veronistar.github.io/publication/promo/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/promo/</guid>
       <description>&lt;p&gt;Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/Promo doc - Veronica Starovoit.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
@@ -127,25 +73,11 @@
     </item>
     
     <item>
-      <title>Pearson API</title>
-      <link>https://veronistar.github.io/publication/pearson-api/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/publication/pearson-api/</guid>
-      <description>&lt;p&gt;An excerpt of content from a larger set about the Pearson Global Platform Services APIs. Veronica was the sole technical writer on this project and collaborated with engineers, product managers, and other cross-functional teams to produce this manual.&lt;/p&gt;
-
-&lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/Pearson-API.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
-    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
-&lt;/object&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pearson Documentation and UX Writing Style Guide</title>
-      <link>https://veronistar.github.io/publication/pearson-style-guide/</link>
+      <link>https://www.veronicastarovoit.com/publication/pearson-style-guide/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/pearson-style-guide/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/pearson-style-guide/</guid>
       <description>&lt;p&gt;Editorial style guide adopted by the Pearson Schoolnet Technical Writing team. Created by Veronica.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/SchoolnetStyleGuide.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
@@ -155,11 +87,25 @@
     </item>
     
     <item>
-      <title>Pearson Schoolnet Release Notes</title>
-      <link>https://veronistar.github.io/publication/pearson-release-notes/</link>
+      <title>Pearson Global Platform Services API</title>
+      <link>https://www.veronicastarovoit.com/publication/pearson-api/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/pearson-release-notes/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/pearson-api/</guid>
+      <description>&lt;p&gt;An excerpt of content from a larger set about the Pearson Global Platform Services APIs. Veronica was the sole technical writer on this project and collaborated with engineers, product managers, and other cross-functional teams to produce this manual.&lt;/p&gt;
+
+&lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/Pearson-API.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
+    &lt;p&gt;PDF can&amp;rsquo;t be displayed :(&lt;/p&gt;
+&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pearson Schoolnet Release Notes</title>
+      <link>https://www.veronicastarovoit.com/publication/pearson-release-notes/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.veronicastarovoit.com/publication/pearson-release-notes/</guid>
       <description>&lt;p&gt;What&amp;rsquo;s new with Educator Development. Fully prepared by Veronica (who was the sole writer for this product line).&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;950&#34; height=&#34;700&#34; type=&#34;application/pdf&#34; data=&#34;/img/pearson-releasenotes.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
@@ -170,10 +116,10 @@
     
     <item>
       <title>Geosoft Target How-to Guide</title>
-      <link>https://veronistar.github.io/publication/geosoft-user-guide/</link>
+      <link>https://www.veronicastarovoit.com/publication/geosoft-user-guide/</link>
       <pubDate>Tue, 13 Dec 2011 00:00:00 -0800</pubDate>
       
-      <guid>https://veronistar.github.io/publication/geosoft-user-guide/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/geosoft-user-guide/</guid>
       <description>&lt;p&gt;Target How-to Guide - Creating Maps in Target (a Geosoft Inc. product).&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/geosoft-ug.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;
@@ -184,10 +130,10 @@
     
     <item>
       <title>IBM Global Process Monitor Models User Guide</title>
-      <link>https://veronistar.github.io/publication/ibm-user-guide/</link>
+      <link>https://www.veronicastarovoit.com/publication/ibm-user-guide/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 -0800</pubDate>
       
-      <guid>https://veronistar.github.io/publication/ibm-user-guide/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/ibm-user-guide/</guid>
       <description>&lt;p&gt;Created in cooperation with IBM&amp;rsquo;s Software Lab during a three-month project.&lt;/p&gt;
 
 &lt;p&gt;&lt;object width=&#34;800&#34; height=&#34;800&#34; type=&#34;application/pdf&#34; data=&#34;/img/43379893-wbit-gpmm-pdffinal.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0&#34;&gt;

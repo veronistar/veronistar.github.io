@@ -1,114 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing Samples (more available upon request) on Thanks for visiting VeronicaStarovoit.com</title>
-    <link>https://veronistar.github.io/publication/</link>
-    <description>Recent content in Writing Samples (more available upon request) on Thanks for visiting VeronicaStarovoit.com</description>
+    <title>Writing Samples (more available upon request) on Thanks for visiting VeronicaStarovoit.com!</title>
+    <link>https://www.veronicastarovoit.com/publication/</link>
+    <description>Recent content in Writing Samples (more available upon request) on Thanks for visiting VeronicaStarovoit.com!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://veronistar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.veronicastarovoit.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazon Advertising Help Center</title>
-      <link>https://veronistar.github.io/publication/amazon-ads-hc/</link>
+      <link>https://www.veronicastarovoit.com/publication/amazon-ads-hc/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/amazon-ads-hc/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/amazon-ads-hc/</guid>
       <description>Amazon Advertising help center owned and maintained by Veronica Starovoit. Most content was written by her in collaboration with product managers, partner managers, and other subject matter experts. Maintained using a Middleman static site generator.
 Initiatives she ran to improve it included:
  launching Japanese localization working with the UX Design team to redesign the experience  PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
-      <title>Amazon Advertising Transactional Emails</title>
-      <link>https://veronistar.github.io/publication/transactional-emails/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/publication/transactional-emails/</guid>
-      <description>The following are samples of emails Veronica drafted for the Amazon Advertising Platform. They&amp;rsquo;re based on the following brand voice tenets:
- Sound like people talking to people Professional but conversational Stay grounded in stories and needs of actual advertising customers  Campaign submitted Hello {First Name},
-Thank you for using Amazon Advertising to advertise your products. Your campaign “{Campaign name}” is currently under review by our moderators. The review process is usually completed within 24 hours, but may take as long as 3 business days.</description>
-    </item>
-    
-    <item>
       <title>Amazon Advertising Conversion Attribution</title>
-      <link>https://veronistar.github.io/publication/amazon-conversion/</link>
+      <link>https://www.veronicastarovoit.com/publication/amazon-conversion/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/amazon-conversion/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/amazon-conversion/</guid>
       <description>Explaining a technical, proprietary concept. This was part of the Amazon Advertising help center owned and maintained by Veronica Starovoit. Most content was written by her in collaboration with product managers, engineers, and other subject matter experts.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
       <title>Amazon Pages UI Copy Feedback</title>
-      <link>https://veronistar.github.io/publication/pages-ui-copy/</link>
+      <link>https://www.veronicastarovoit.com/publication/pages-ui-copy/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/pages-ui-copy/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/pages-ui-copy/</guid>
       <description>Pages is an Amazon product where advertisers can create custom landing pages for their products and brands on the Amazon retail site. The following document includes UI copy feedback provided by Veronica to the UX Designer and Software Engineer for Pages.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
       <title>Amazon Promotion Document</title>
-      <link>https://veronistar.github.io/publication/promo/</link>
+      <link>https://www.veronicastarovoit.com/publication/promo/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
-      <guid>https://veronistar.github.io/publication/promo/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/promo/</guid>
       <description>Veronica presented the following document as evidence for a promotion from L5 Tech Writer to L6 Sr. Tech Writer at Amazon, which she got. In it, she describes key achievements and provides positive peer and customer feedback.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
-      <title>Pearson API</title>
-      <link>https://veronistar.github.io/publication/pearson-api/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
-      
-      <guid>https://veronistar.github.io/publication/pearson-api/</guid>
-      <description>An excerpt of content from a larger set about the Pearson Global Platform Services APIs. Veronica was the sole technical writer on this project and collaborated with engineers, product managers, and other cross-functional teams to produce this manual.
-PDF can&amp;rsquo;t be displayed :(</description>
-    </item>
-    
-    <item>
       <title>Pearson Documentation and UX Writing Style Guide</title>
-      <link>https://veronistar.github.io/publication/pearson-style-guide/</link>
+      <link>https://www.veronicastarovoit.com/publication/pearson-style-guide/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/pearson-style-guide/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/pearson-style-guide/</guid>
       <description>Editorial style guide adopted by the Pearson Schoolnet Technical Writing team. Created by Veronica.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
-      <title>Pearson Schoolnet Release Notes</title>
-      <link>https://veronistar.github.io/publication/pearson-release-notes/</link>
+      <title>Pearson Global Platform Services API</title>
+      <link>https://www.veronicastarovoit.com/publication/pearson-api/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
       
-      <guid>https://veronistar.github.io/publication/pearson-release-notes/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/pearson-api/</guid>
+      <description>An excerpt of content from a larger set about the Pearson Global Platform Services APIs. Veronica was the sole technical writer on this project and collaborated with engineers, product managers, and other cross-functional teams to produce this manual.
+PDF can&amp;rsquo;t be displayed :(</description>
+    </item>
+    
+    <item>
+      <title>Pearson Schoolnet Release Notes</title>
+      <link>https://www.veronicastarovoit.com/publication/pearson-release-notes/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.veronicastarovoit.com/publication/pearson-release-notes/</guid>
       <description>What&amp;rsquo;s new with Educator Development. Fully prepared by Veronica (who was the sole writer for this product line).
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
       <title>Geosoft Target How-to Guide</title>
-      <link>https://veronistar.github.io/publication/geosoft-user-guide/</link>
+      <link>https://www.veronicastarovoit.com/publication/geosoft-user-guide/</link>
       <pubDate>Tue, 13 Dec 2011 00:00:00 -0800</pubDate>
       
-      <guid>https://veronistar.github.io/publication/geosoft-user-guide/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/geosoft-user-guide/</guid>
       <description>Target How-to Guide - Creating Maps in Target (a Geosoft Inc. product).
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
     
     <item>
       <title>IBM Global Process Monitor Models User Guide</title>
-      <link>https://veronistar.github.io/publication/ibm-user-guide/</link>
+      <link>https://www.veronicastarovoit.com/publication/ibm-user-guide/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 -0800</pubDate>
       
-      <guid>https://veronistar.github.io/publication/ibm-user-guide/</guid>
+      <guid>https://www.veronicastarovoit.com/publication/ibm-user-guide/</guid>
       <description>Created in cooperation with IBM&amp;rsquo;s Software Lab during a three-month project.
 PDF can&amp;rsquo;t be displayed :(</description>
     </item>
